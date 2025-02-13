@@ -1,3 +1,5 @@
+Using react/vite to do conditional rendering
+
 Objective: Make a switch that turns the light bulb off and the room dark (when clicked)
 
 HINTS: 
